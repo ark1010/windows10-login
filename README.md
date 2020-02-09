@@ -10,4 +10,4 @@ Improved windows 10 login from https://github.com/Pickfordmatt/SharpLocker
 ## How to
 * Compile it from Visual Studio and customize it as you wish
 * Some features are disabled for the sake of testing (line 169-170)
-
+![Preview](https://github.com/fedddddd/windows10-login/blob/master/windows.png?raw=true)

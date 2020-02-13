@@ -1,4 +1,4 @@
-# windows10-login
+# windows10 fake lockscreen
 Improved windows 10 login from https://github.com/Pickfordmatt/SharpLocker
 ## Features
 * Gets account image
